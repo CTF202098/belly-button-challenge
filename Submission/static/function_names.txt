@@ -1,0 +1,17 @@
+function buildMetadata(sample) - demographic information
+
+function buildCharts(sample) - bubble and bar charts
+
+function init() - make it possible to select a subject
+
+function optionChanged(newSample) - subject selector
+
+download -> parse DOM -> run JS -> render DOM to screen
+
+function add100(a) {
+    return a + 100;
+}
+
+lines 55-57, 65, 68, 73-75, 88 // line written with Kourt in tutoring
+
+jan30 and feb 3
